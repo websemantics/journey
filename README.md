@@ -16,11 +16,11 @@
 
 I have always been curious about the world and how things work and my day comprises largely of me setting behind my laptop screen writing code, reading and watching videos. 
 
-I learn a lot on daily basis; either on tech subjects, psychology, biology, physics, astronomy or business. I often desire to share my experiences and sometimes I do on social media (facebook, twitter, etc) but but doing so always felt inappropriate and largely goes unnoticed (rightly so). 
+I learn a lot on daily basis; either on tech subjects, psychology, biology, physics, astronomy or business. I often desire to share my experiences and sometimes I do on social media (facebook, twitter, etc) but doing so always felt inappropriate and largely goes unnoticed (rightly so). 
 
 People on social media are there to, well, talk about daily events and have light conversation. Learning is a gradual process and mostly accumulative and learning experiences can be a hard topic to talk about or attract attention to. 
 
-My experience with learning has been consistence for decades and always felt like a continues unraveling of a knowledge map of sort. My learning process  has patterns, forward and backward links between learnt subjects and byproducts. 
+My experience with learning has been consistence for decades and always felt like a continues unraveling of a knowledge map of sort. My learning process has patterns, forward and backward links between learnt subjects and byproducts. 
 
 Oftentimes people share their learning experiences via blog posts in the format of explaining the subject matter or teaching others.
 
