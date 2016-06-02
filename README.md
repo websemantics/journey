@@ -12,7 +12,6 @@
 
 > Capture your learning journey with the world and connect with awesome people who share your passion.
 
-*** This is work in progress ***
 
 # Backstory
 
@@ -28,6 +27,7 @@ Oftentimes people share their learning experiences via blog posts in the format 
 
 The aim here is to find a meaningful way to share learning experiences (not the learning itself), new knowledge, skills and discoveries to share with like minded people. I think that will be a kick ass tool.
 
+
 # The River
 
 A liver is commonly used metaphor to represent the flow of life. A river can also represent a number of concepts during the learning journey of a person. 
@@ -38,4 +38,4 @@ A river could branch into a dry land turning into green as representation of lea
 
 A river can form waterfalls which might represent a climax of understanding an conquer a challenge.  
 
-Thoughts are welcomes :)
+Thoughts are welcome :)
