@@ -34,8 +34,8 @@ A liver is commonly used metaphor to represent the flow of life. A river can als
 
 Branching streams which later rejoin could represent someone's acquiring knowledge to support whatever they are currently working on, and integrating it back later on. 
 
-A river could branch into a dry land turning into it green as representation of learning a new subject. Ponds and water reservoir can from by a river possible for accumulation and new contributions to knowledge. 
+A river could branch into a dry land turning into it green as representation of learning a new subject. Ponds and water reservoir can be form by a river possibly to represent accumulation and new contributions to knowledge. 
 
-A river can form waterfalls which might represent a climax of understanding an conquer a challenge.  
+A river can form waterfalls which might represent a climax of understanding an conquering a challenge.  
 
 Thoughts are welcome :)
