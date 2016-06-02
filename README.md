@@ -20,10 +20,10 @@ I learn a lot on daily basis; either on tech subjects, psychology, biology, phys
 
 People on social media are there to, well, talk about daily events and have light conversation. Learning is a gradual process and mostly accumulative and learning experiences can be a hard topic to talk about or attract attention to. 
 
-My experience with learning has been consistence for decades and always felt like a continues unraveling of a knowledge map of sort. My learning process has patterns, forward and backward links between learnt subjects and byproducts. 
+My experience with learning has been consistant for the decades and always felt like a continuous unraveling of a knowledge map of sort. My learning process has patterns, forward and backward links between learnt subjects and byproducts. 
 
-Oftentimes people share their learning experiences via blog posts in the format of explaining the subject matter or teaching others.
+Oftentimes people share their learning experiences via blog posts in the format of explaining the subject matter or teaching others. 
 
-The aim here is to find a meaningful way to share learning experiences (not the learning itself), new knowledge, skills and discoveries to share with like minded people.
+The aim here is to find a meaningful way to share learning experiences (not the learning itself), new knowledge, skills and discoveries to share with like minded people. I think that will be a kick ass tool.
 
 Thoughts are welcomes :)
