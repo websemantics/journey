@@ -18,7 +18,7 @@
 
 I have always been curious about the world and how things work. My day comprises largely of me setting behind my laptop screen writing code, reading and watching videos. 
 
-I learn a lot on daily basis; either on tech subjects, psychology, biology, physics, astronomy or business. I often desire to share my experiences and sometimes I do on social media (facebook, twitter, etc) but doing so always felt inappropriate and largely goes unnoticed (rightly so). 
+Because of my line of work and the projects I work on, I learn a lot on daily basis either on tech subjects, psychology, biology, physics, astronomy or business. I often desire to share my experiences and sometimes I do on social media (facebook, twitter, etc) but doing so always felt inappropriate and largely goes unnoticed (rightly so). 
 
 People on social media are there to, well, talk about daily events and have light conversation. Learning is a gradual process and mostly accumulative and learning experiences can be a hard topic to talk about or attract attention to. 
 
