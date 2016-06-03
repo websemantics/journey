@@ -16,7 +16,7 @@
 
 # Backstory
 
-I have always been curious about the world and how things work. my day comprises largely of me setting behind my laptop screen writing code, reading and watching videos. 
+I have always been curious about the world and how things work. My day comprises largely of me setting behind my laptop screen writing code, reading and watching videos. 
 
 I learn a lot on daily basis; either on tech subjects, psychology, biology, physics, astronomy or business. I often desire to share my experiences and sometimes I do on social media (facebook, twitter, etc) but doing so always felt inappropriate and largely goes unnoticed (rightly so). 
 
