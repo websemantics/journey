@@ -31,7 +31,7 @@ The aim here is to find a meaningful way to share learning experiences (not the 
 
 # The River
 
-A liver is commonly used metaphor to represent the flow of life. A river can also represent a number of concepts during the learning journey of a person. 
+A river is commonly used metaphor to represent the flow of life. A river can also represent a number of concepts during the learning journey of a person. 
 
 Branching streams which later rejoin could represent someone's acquiring knowledge to support whatever they are currently working on, and integrating it back later on. 
 
