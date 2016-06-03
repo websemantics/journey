@@ -6,7 +6,8 @@
  _\ \ \ \____/\ \____/\ \_\ \ \_\ \_\ \____\\/`____ \ 
 /\ \_\ \/___/  \/___/  \/_/  \/_/\/_/\/____/ `/___/> \
 \ \____/                                        /\___/
- \/___/    Work in progress                     \/__/ 
+ \/___/    Learn how to learn &                 \/__/ 
+           Share your leaning experince
 
 ```
 
@@ -38,4 +39,16 @@ A river could branch into a dry land turning into it green as representation of 
 
 A river can form waterfalls which might represent a climax of understanding an conquering a challenge.  
 
-Thoughts are welcome :)
+
+# Thoughts
+
+If such a system would exist, one would imagine a way to,
+
+- Measure learning / learning proficiency & speed, 
+- Spectrum of knowledge covered, 
+- Suggest relevant subjects (from other users' learning patterns / usage )
+- Build and improve an optimized models of learning
+- Help users with best ways to learn (techniques, tips, tools etc)
+- Connect like minded people through shared interests
+
+Thoughts are welcome,
