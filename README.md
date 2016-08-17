@@ -37,7 +37,7 @@ A river is commonly used metaphor to represent the flow of life. A river can als
 
 Branching streams which later rejoin could represent someone's acquiring knowledge to support whatever they are currently working on, and integrating it back later on. 
 
-A river could branch into a dry land turning it green, an analogy of learning a new subject. Ponds and water reservoir can be form by a river possibly to represent accumulation and new contributions to knowledge. 
+A river could branch into a dry land turning it green, an analogy of learning a new subject. Ponds and water reservoir can be formed by a river, possibly to represent accumulation and new contributions to knowledge. 
 
 A river can form waterfalls which might represent a climax of understanding, a eureka moment or simply conquering a challenge.  
 
