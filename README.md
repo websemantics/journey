@@ -31,13 +31,15 @@ The aim here is to find a meaningful way to share learning experiences (not the 
 
 # The River
 
+It is often helpful to use metaphors and analogies to deliver information. The acquisition of knowledge and how it integrates with past experiences can be complicated to talk about abstractly. Then I thought why not use a metaphone to do so, hence the River.
+
 A river is commonly used metaphor to represent the flow of life. A river can also represent a number of concepts during the learning journey of a person. 
 
 Branching streams which later rejoin could represent someone's acquiring knowledge to support whatever they are currently working on, and integrating it back later on. 
 
-A river could branch into a dry land turning into it green as representation of learning a new subject. Ponds and water reservoir can be form by a river possibly to represent accumulation and new contributions to knowledge. 
+A river could branch into a dry land turning it green, an analogy of learning a new subject. Ponds and water reservoir can be form by a river possibly to represent accumulation and new contributions to knowledge. 
 
-A river can form waterfalls which might represent a climax of understanding an conquering a challenge.  
+A river can form waterfalls which might represent a climax of understanding, a eureka moment or simply conquering a challenge.  
 
 
 # Thoughts
@@ -46,9 +48,9 @@ If such a system would exist, one would imagine a way to,
 
 - Measure learning / learning proficiency & speed, 
 - Spectrum of knowledge covered, 
-- Suggest relevant subjects (from other users' learning patterns / usage )
-- Build and improve an optimized models of learning
-- Help users with best ways to learn (techniques, tips, tools etc)
-- Connect like minded people through shared interests
+- Suggest relevant subjects (from other users' learning patterns / usage ),
+- Build and improve an optimized models of learning,
+- Help users with best ways to learn (techniques, tips, tools etc),
+- Connect like minded people through shared interests,
 
 Thoughts are welcome,
