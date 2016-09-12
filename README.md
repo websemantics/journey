@@ -58,3 +58,5 @@ Thoughts are welcome,
 # Links
 
 - [Like on Git](https://github.com/Idnan/like-on-git), Chrome extension to save links that you like on Github repository that you specify
+
+- [Brain List](https://brainlist.com), Learn how you learn.
